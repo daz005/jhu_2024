@@ -1,0 +1,11 @@
+INSERT INTO Book (BookID, Title, Author, Genre, Price, Availability, Rating) VALUES
+(1, 'The Great Gatsby', 'F. Scott Fitzgerald', 'Classic', 10.99, 3, 4.5),
+(2, 'To Kill a Mockingbird', 'Harper Lee', 'Classic', 7.99, 5, 4.8),
+(3, '1984', 'George Orwell', 'Dystopian', 8.99, 2, 4.6),
+(4, 'Pride and Prejudice', 'Jane Austen', 'Romance', 6.99, 4, 4.3),
+(5, 'The Catcher in the Rye', 'J.D. Salinger', 'Classic', 9.99, 6, 4.1),
+(6, 'Moby Dick', 'Herman Melville', 'Adventure', 12.99, 2, 4.0),
+(7, 'War and Peace', 'Leo Tolstoy', 'Historical', 14.99, 1, 4.7),
+(8, 'The Hobbit', 'J.R.R. Tolkien', 'Fantasy', 11.99, 8, 4.9),
+(9, 'Crime and Punishment', 'Fyodor Dostoevsky', 'Philosophical', 13.99, 3, 4.4),
+(10, 'The Alchemist', 'Paulo Coelho', 'Adventure', 9.49, 10, 4.2);
